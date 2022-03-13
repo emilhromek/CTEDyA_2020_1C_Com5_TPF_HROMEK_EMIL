@@ -5,4 +5,4 @@ correspondiente al segundo año de la carrera de Ingeniería en Informática, de
 
 Para realizarlo, la cátedra suministró un código base sobre el cual se tuvo que trabajar para finalmente conseguir el objetivo pedido por la consigna.
 
-La misma consistía en implementar un sistema de inteligencia artificial, basada en el algoritmo MiniMax, para un juego que se ejecuta por consola. En el informe está todo más detallado.
+La misma consistía en implementar un sistema de inteligencia artificial, basada en el algoritmo MiniMax, para un juego que se ejecuta por consola. En el archivo Informe.pdf está todo más detallado.
